@@ -1,15 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
+        <div className="nav">
+            <div className="insideNav">
+              <p>Gadgets</p>
+              <p>Apparel</p>
+              <p>About the Shop</p>
+
+            </div>
+        </div>
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        <div className="mainDiv">
         
-        </p>
+        </div>          
       </header>
     </div>
   );
