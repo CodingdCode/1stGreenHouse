@@ -10,11 +10,22 @@ function App() {
               <p>Apparel</p>
               <p>About the Shop</p>
 
+
+              {/* Shopping kart ICON here */}
             </div>
         </div>
       <header className="App-header">
         <div className="mainDiv">
-        
+
+            <div className="category">
+              
+            </div>
+            <div className="category">
+
+            </div>
+            <div className="category">
+
+            </div>
         </div>          
       </header>
     </div>
