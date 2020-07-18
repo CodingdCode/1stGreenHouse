@@ -34,10 +34,15 @@
   background-color: rgba( 255, 255, 255, .47);
   width: 90vw;
   height: 80vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-content: space-around;
 }
 
 .category {
   background-color: seashell;
   position: relative;
-  width: 1000px;
+  width: 10vw;
+  height: 50vh;
 }
