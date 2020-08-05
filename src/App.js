@@ -15,7 +15,7 @@ function App() {
             </div>
         </div>
       <header className="App-header">
-        <div className="mainDiv">
+        {/* <div className="mainDiv">
 
             <div className="category">
               
@@ -26,7 +26,7 @@ function App() {
             <div className="category">
 
             </div>
-        </div>          
+        </div>           */}
       </header>
     </div>
   );
